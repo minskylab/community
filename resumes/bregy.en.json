@@ -1,0 +1,109 @@
+{
+    "basics": {
+        "name": "Bregy Malpartida",
+        "label": "Developer",
+        "picture": "",
+        "email": "bregy@minsky.cc",
+        "phone": "957 821 858",
+        "website": "http://bregy.minsky.cc",
+        "summary": "A summary of Bregy Malpartida...",
+        "location": {
+            "address": "Jr. Rosendo Vidurre 641",
+            "postalCode": "160401",
+            "city": "Lima, Barranco",
+            "countryCode": "PE",
+            "region": "Lima"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "bregydoc",
+                "url": "https://github.com/bregydoc"
+            },
+            {
+                "network": "Linkedin",
+                "username": "bregy",
+                "url": "https://www.linkedin.com/in/bregy"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Minsky",
+            "position": "CTO",
+            "website": "https://minsky.cc",
+            "startDate": "2020-01-01",
+            "endDate": "",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "UTEC",
+            "area": "Electrical Engineering",
+            "studyType": "Bachelor",
+            "startDate": "2015-01-01",
+            "endDate": "2021-01-01",
+            "gpa": "1.0",
+            "courses": [""]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Medium proficiency"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music",
+            "keywords": ["Progressive Rock", "Heavy Metal"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
