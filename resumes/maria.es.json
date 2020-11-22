@@ -1,34 +1,34 @@
 {
     "basics": {
-        "name": "Bregy Malpartida",
-        "label": "Developer",
+        "name": "Maria Noriega",
+        "label": "Egresada de Ing. Industrial",
         "picture": "",
-        "email": "bregy@minsky.cc",
-        "phone": "957 821 858",
-        "website": "http://bregy.minsky.cc",
-        "summary": "A summary of Bregy Malpartida...",
+        "email": "hello@minsky.cc",
+        "phone": "961 818 237",
+        "website": "",
+        "summary": "A summary of Maria Noriega...",
         "location": {
-            "address": "Jr. Rosendo Vidurre 641",
-            "postalCode": "160401",
-            "city": "Lima, Barranco",
+            "address": "Calle Miguel Grau 251",
+            "postalCode": "15087",
+            "city": "Lima, San Miguel",
             "countryCode": "PE",
             "region": "Lima"
         },
         "profiles": [{
                 "network": "Github",
-                "username": "bregydoc",
-                "url": "https://github.com/bregydoc"
+                "username": "mariagnoriegag",
+                "url": "https://github.com/mariagnoriegag"
             },
             {
                 "network": "Linkedin",
-                "username": "bregy",
-                "url": "https://www.linkedin.com/in/bregy"
+                "username": "guadalupenoriega",
+                "url": "https://www.linkedin.com/in/guadalupenoriega/"
             }
         ]
     },
     "work": [{
         "company": "Minsky",
-        "position": "CTO & Co-founder",
+        "position": "COO & Co-fundador",
         "website": "https://minsky.cc",
         "startDate": "2020-01-01",
         "endDate": "",
@@ -46,10 +46,10 @@
     }],
     "education": [{
         "institution": "UTEC",
-        "area": "Electrical Engineering",
+        "area": "Ingeniería Industrial",
         "studyType": "Bachelor",
-        "startDate": "2015-01-01",
-        "endDate": "2021-01-01",
+        "startDate": "2013-03-24",
+        "endDate": "2020-06-20",
         "gpa": "1.0",
         "courses": [""]
     }],
@@ -82,7 +82,7 @@
     ],
     "interests": [{
         "name": "Music",
-        "keywords": ["Progressive Rock", "Heavy Metal"]
+        "keywords": ["Progressive Rock"]
     }],
     "references": [{
         "name": "Jane Doe",
