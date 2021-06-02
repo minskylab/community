@@ -1,91 +1,405 @@
 {
     "basics": {
         "name": "Bregy Malpartida",
-        "label": "Developer",
+        "label": "Chief Technology Officer at Minsky",
         "picture": "",
         "email": "bregy@minsky.cc",
-        "phone": "957 821 858",
-        "website": "http://bregy.minsky.cc",
-        "summary": "A summary of Bregy Malpartida...",
+        "phone": "+51957821858",
+        "website": "",
+        "summary": "My name is Bregy and I'm very interested in new technologies, I love software, hardware and science in general. I consider myself an autodidact person because always I'm trying to understand new things and create new concepts. During my time at UTEC I've worked on many multidisciplinary projects where I developed a deep passion for artificial intelligence. In my free time I usually program and read about modern technologies, and sometimes I go to play the drums.",
         "location": {
-            "address": "Jr. Rosendo Vidurre 641",
+            "address": "Jr. Rosendo Vidurre 641, Barranco",
             "postalCode": "160401",
             "city": "Lima, Barranco",
             "countryCode": "PE",
             "region": "Lima"
         },
-        "profiles": [{
+        "profiles": [
+            {
                 "network": "Github",
                 "username": "bregydoc",
                 "url": "https://github.com/bregydoc"
             },
             {
-                "network": "Linkedin",
+                "network": "LinkedIn",
                 "username": "bregy",
-                "url": "https://www.linkedin.com/in/bregy"
+                "url": "https://www.linkedin.com/in/bregy/"
             }
         ]
     },
-    "work": [{
-        "company": "Minsky",
-        "position": "CTO & Co-founder",
-        "website": "https://minsky.cc",
-        "startDate": "2020-01-01",
-        "endDate": "",
-        "summary": "Description...",
-        "highlights": ["Started the company"]
-    }],
-    "volunteer": [{
-        "organization": "Organization",
-        "position": "Volunteer",
-        "website": "http://organization.com/",
-        "startDate": "2012-01-01",
-        "endDate": "2013-01-01",
-        "summary": "Description...",
-        "highlights": ["Awarded 'Volunteer of the Month'"]
-    }],
-    "education": [{
-        "institution": "UTEC",
-        "area": "Electrical Engineering",
-        "studyType": "Bachelor",
-        "startDate": "2015-01-01",
-        "endDate": "2021-01-01",
-        "gpa": "1.0",
-        "courses": [""]
-    }],
-    "awards": [{
-        "title": "Award",
-        "date": "2014-11-01",
-        "awarder": "Company",
-        "summary": "There is no spoon."
-    }],
-    "publications": [{
-        "name": "Publication",
-        "publisher": "Company",
-        "releaseDate": "2014-10-01",
-        "website": "http://publication.com",
-        "summary": "Description..."
-    }],
-    "skills": [{
-        "name": "Web Development",
-        "level": "Master",
-        "keywords": ["HTML", "CSS", "Javascript"]
-    }],
-    "languages": [{
-            "language": "Spanish",
-            "fluency": "Native speaker"
+    "work": [
+        {
+            "company": "Minsky",
+            "endDate": "",
+            "highlights": [],
+            "position": "Chief Technology Officer",
+            "startDate": "2020-02-28",
+            "website": "https://www.linkedin.com/company/minskylab/"
         },
         {
-            "language": "English",
-            "fluency": "Medium proficiency"
+            "company": "Bit Perfect Solutions",
+            "endDate": "2019-12-31",
+            "highlights": [],
+            "position": "Head of Technological Innovation at BitLab",
+            "startDate": "2019-07-31",
+            "summary": "Research and development about Software Technologies at the company.",
+            "website": "https://www.linkedin.com/company/bit-perfect-solutions-sac/"
+        },
+        {
+            "company": "Bit Perfect Solutions",
+            "endDate": "2019-07-31",
+            "highlights": [],
+            "position": "Software Developer in Amanda Chatbot Project",
+            "startDate": "2019-03-31",
+            "summary": "- Natural Language Understanding (NLU) from IBM Watson was implemented.\n- Amanda was a logistic chatbot for Scharff company customer.",
+            "website": "https://www.linkedin.com/company/bit-perfect-solutions-sac/"
+        },
+        {
+            "company": "Bombo ",
+            "endDate": "2019-03-31",
+            "highlights": [],
+            "position": "Backend Developer",
+            "startDate": "2018-02-28",
+            "summary": "- Software architecture design.\n- Platform backend programming.",
+            "website": "https://www.linkedin.com/company/bomboperu/"
+        },
+        {
+            "company": "ID B.I.",
+            "endDate": "2019-01-31",
+            "highlights": [],
+            "position": "Software Developer",
+            "startDate": "2018-10-31",
+            "summary": "- Software consulting in modern technologies.\n- Technical support in the evaluation of human resources during the search for a new collaborator.\n- Frontend Development Advisor.",
+            "website": "https://www.linkedin.com/company/id-peru/"
+        },
+        {
+            "company": "UTEC - Universidad de Ingeniería y Tecnología",
+            "endDate": "2018-12-31",
+            "highlights": [],
+            "position": "Mobile Developer at CITA",
+            "startDate": "2018-06-30",
+            "summary": "- Flutter mobile development.\n- The app was a collection of information from Huaycos in the face of natural disasters.",
+            "website": "https://www.linkedin.com/school/utec-universidad-de-ingenieria-y-tecnologia/"
+        },
+        {
+            "company": "Factoria Media Estudio",
+            "endDate": "2018-01-31",
+            "highlights": [],
+            "position": "Freelance Backend Web Developer",
+            "startDate": "2017-05-31",
+            "summary": "In this work, I created a web to sell tickets for tourist entertainment.",
+            "website": "https://www.linkedin.com/company/factoria-media-estudio/"
+        },
+        {
+            "company": "UTEC - Universidad de Ingeniería y Tecnología",
+            "endDate": "2017-05-31",
+            "highlights": [],
+            "position": "Hardware developer and IoT programmer at TELEJAMPIQ project",
+            "startDate": "2016-03-31",
+            "summary": "- I designed and developed the hardware of this project using open source technologies.\n- I created good solutions for upload clinic data to cloud (IoT).",
+            "website": "https://www.linkedin.com/school/utec-universidad-de-ingenieria-y-tecnologia/"
+        },
+        {
+            "company": "BIOTECH GROUP",
+            "endDate": "2017-05-31",
+            "highlights": [],
+            "position": "Developer and Researcher",
+            "startDate": "2015-12-31",
+            "summary": "- User interface was created based on web and cloud technologies.\n- Deep learning algorithm was created using RNN model for extract, classify and detect pressure ulcer based on the thermal differences in human skin.",
+            "website": ""
         }
     ],
-    "interests": [{
-        "name": "Music",
-        "keywords": ["Progressive Rock", "Heavy Metal"]
-    }],
-    "references": [{
-        "name": "Jane Doe",
-        "reference": "Reference..."
-    }]
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "UTEC - Universidad de Ingeniería y Tecnología",
+            "area": "Electrical Engineering",
+            "studyType": "Bachelor",
+            "startDate": "2015-12-31",
+            "endDate": "",
+            "gpa": "",
+            "courses": [""]
+        }
+    ],
+
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Qualitative Study for the Development of a Telemedicine System in Palliative Carea",
+            "publisher": "Openventio",
+            "releaseDate": "2017-06-29",
+            "website": "https://openventio.org/wp-content/uploads/Qualitative-Study-for-the-Development-of-a-Telemedicine-System-in-Palliative-Care-PMHCOJ-3-122.pdf",
+            "summary": "Technological advances in public health have allowed the life expectancy of people."
+        },
+        {
+            "name": "Inflamación en la patogenia de úlceras por presión y su detección mediante nuevas tecnologías",
+            "publisher": "Dermatología Peruana",
+            "releaseDate": "2017-06-04",
+            "website": "http://www.dermatologiaperuana.pe/assets/uploads/revista_FsbS_06_Educacion_medica_continua_27-2.pdf",
+            "summary": "Inflammation in the pathogenesis of pressure ulcers and their detection by new technologies."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programación",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Python",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "C (programación)",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "C++",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Golang",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Lenguajes de programación",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Programación orientada a objetos",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Algoritmos genéticos",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Diseño de circuitos digitales",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Java",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Investigación y desarrollo",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Desarrollo de programas para Android",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "GNU/Linux",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Redes neuronales",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Diseño de algoritmos",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Desarrollo de software",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Desarrollo de algoritmos",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Desarrollo web ágil",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Sistemas embebidos",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Lenguaje ensamblador",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Minsky",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "NoSQL",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Internet of things",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Inteligencia artificial",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Algoritmos",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Internet de las cosas",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Desarrollo web",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "PIC de Microchip",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Procesamiento de lenguajes naturales",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Kubernetes",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Biology",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Computación en la nube",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "GraphQL",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "VHDL",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Investigación",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Software de código abierto",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Ciencia de datos",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Open source",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Docker",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Django",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Arquitectura de software",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Lua",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Desarrollo de fuente abierta",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Machine Learning",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Haskell",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Minería de datos",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Python (Programming Language)",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "MongoDB",
+            "level": "",
+            "keywords": []
+        }
+    ],
+    "languages": [
+        {
+            "language": "es",
+            "fluency": "Native Speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music",
+            "keywords": ["Progressive Rock", "Heavy Metal"]
+        }
+    ],
+    "references": []
 }
